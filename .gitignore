@@ -1,0 +1,17 @@
+# Паролі та налаштування підключення
+.env
+.env.*
+!.env.example
+
+# Службові файли Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Тимчасові файли
+.vscode/
+.DS_Store
+
+# Датасет Spotify
+dataset.csv
